@@ -3,8 +3,8 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/	 	/*Update Interval*/	/*Update Signal*/
   {" ", "/home/ahwx/.local/bin/mem", 6, 3 },
 	{" ", "/home/ahwx/.local/bin/wlan", 6, 3 },
-	{" ", "/home/ahwx/.local/bin/volume",			 0,		          15},
-	{" ", "/home/ahwx/.local/bin/battery",      20,            10},
+	{" ", "/home/ahwx/.local/bin/volume", 1, 3 },
+	{" ", "/home/ahwx/.local/bin/battery", 20, 10},
   {" ", "/home/ahwx/.local/bin/clock", 1, 3},
 };
 
